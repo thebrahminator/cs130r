@@ -14,4 +14,4 @@ toc: false
 2. This is detail 2
 
 # Sample PDF
-[PDF](https://thebrahminator.github.io/cs130r/pdf/sample.pdf)
+[PDF] ( {{< ref "static/pdf/samlpe.pdf" >}})
