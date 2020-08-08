@@ -14,4 +14,4 @@ toc: false
 2. This is detail 2
 
 # Sample PDF
-[PDF](/static/pdf/sample.pdf)
+[PDF](/cs130r/static/pdf/sample.pdf)
