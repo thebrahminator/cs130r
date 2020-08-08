@@ -1,7 +1,7 @@
 ---
 title: "Syllabus and Important Material"
 date: 2020-08-08T09:32:02-04:00
-slug: "Syllabus"
+slug: "first-post"
 description: ""
 keywords: []
 tags: []
