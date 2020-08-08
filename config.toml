@@ -4,7 +4,7 @@ theme = "hugo-theme-codex"
 # Override these settings with your own
 title = "Emory CS 130R"
 languageCode = "en-us"
-baseURL = "https://thebrahminator.github.io"
+baseURL = "https://thebrahminator.github.io/cs130r/"
 copyright = "© {year}"
 
 # Optional params
