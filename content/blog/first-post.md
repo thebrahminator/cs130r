@@ -14,4 +14,4 @@ toc: false
 2. This is detail 2
 
 # Sample PDF
-[PDF] ( {{< ref "static/pdf/samlpe.pdf" >}})
+[PDF] ( {{< ref "/pdf/samlpe.pdf" >}})
